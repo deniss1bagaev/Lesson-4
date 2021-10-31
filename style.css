@@ -1,0 +1,36 @@
+h1 span {
+    color: aqua;
+}
+h1{
+text-align: center;
+}
+li{
+    text-decoration: none;
+}
+.main{
+    border-spacing: 30px 20px;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
+.main-left{
+    text-align: center;
+    width: 400px;
+    -webkit-box-shadow: 4px 4px 8px 10px rgba(105, 111, 116, 0.2);
+    -moz-box-shadow: 4px 4px 8px 10px rgba(105, 111, 116, 0.2);
+    box-shadow: 4px 4px 8px 10px rgba(105, 111, 116, 0.2);
+}
+.main-right{
+    padding: 10px;
+width: 800px;
+-webkit-box-shadow: 4px 4px 8px 10px rgba(105, 111, 116, 0.2);
+-moz-box-shadow: 4px 4px 8px 10px rgba(105, 111, 116, 0.2);
+box-shadow: 4px 4px 8px 10px rgba(105, 111, 116, 0.2);
+}
+.button{
+    margin-left: 150px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: aqua;
+}
